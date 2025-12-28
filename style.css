@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.converter{
+    height: 70px;
+    width: 200px;
+    font-size: large;
+    margin: 20px;
+    text-align: center;
+}
+#Lbtn{
+    display: inline;
+}
+#Dbtn{
+    display: none;
+}
